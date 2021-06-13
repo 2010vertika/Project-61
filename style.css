@@ -1,0 +1,95 @@
+body {
+
+    color: white;
+    text-align: center;
+    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 161, 1) 57%, rgba(252, 176, 69, 1) 88%);
+    font-size: 30px;
+}
+
+img {
+    width: 300px;
+}
+
+h1 {
+    color: yellow;
+    text-shadow: -1px 0 black, 0 1px, 2px 0 black, 0 -1px black;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: blueviolet;
+}
+
+.links {
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+    display: inline;
+}
+
+#my name {
+    font-family: 'Courgette', cursive;
+}
+
+.links:hover {
+    font-size: 30px;
+
+}
+
+.line {
+    text-align: center;
+    color: white;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.button {
+    text-align: center;
+    color: aliceblue;
+}
+
+.Paintings {
+    border-spacing: 50%;
+}
+
+.Painting {
+    padding-left: 100;
+}
+
+.Contact {
+    background-color: aqua
+}
+
+.Contact1 {
+    color: white;
+}
+
+.Contact1 a {
+    color: white;
+    text-shadow: none;
+}
+
+.links a {
+    color: white;
+    text-align: center;
+}
+
+.Contact h3 {
+    display: inline;
+}
+
+#bio {
+    padding: 50px;
+    text-align: center;
+}
+.Hobby h1 {
+text-align: center;
+}
